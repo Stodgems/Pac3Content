@@ -1,13 +1,13 @@
 "VertexlitGeneric"
 {
-	$basetexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_d"
-	$bumpmap "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_n"
+	$basetexture "neal_hood_d"
+	$bumpmap "neal_hood_n"
 	
 	$blendtintbybasealpha 1
 	$color2 "[0 0 0]"
 	
 	$phong 1
-	$phongexponenttexture "models/kuma96/modern_warfare_remastered/characters/sas/textures/neal_hood_e"
+	$phongexponenttexture "neal_hood_e"
 	$phongboost 1.5
 	$phongfresnelranges "[.1 .23 .945]"
 }

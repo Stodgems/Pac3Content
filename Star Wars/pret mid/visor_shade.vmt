@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/shtazi/off_pretor/visor_red"
+	$bumpmap "models/shtazi/off_pretor/normal"
+
+	$color2 "[ 0.7 0.7 0.7]"
+
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phong" "1"
+	"$phongboost"	"10"
+
+	"$phongfresnelranges"	"[0.025 0.575 0.4725]"
+
+	"$phongdisablehalflambert"	"1"
+
+    	$rimlight 1
+   	 $rimlightexponent       2
+    	$rimlightboost          .2
+    	$rimmask 0
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[5 5 5]"
+
+	$detail "models/shtazi/off_pretor/visor_red"
+    	$detailblendmode 5
+    	$detailblendfactor 3
+   	$detailscale 1
+}

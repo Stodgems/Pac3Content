@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/shtazi/off_pretor/black"
+	$bumpmap "models/shtazi/off_pretor/normal"
+
+	$color2 "[0 0 0]"
+
+	$phong 1
+   	$phongfresnelranges "[1 1 1]"
+	$phongboost 10
+
+
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 1
+
+	$nocull 1
+}

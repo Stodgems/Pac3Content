@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/shtazi/off_pretor/shade_suit"
+	$bumpmap "models/shtazi/off_pretor/normal"
+
+	$color2 "[0.3 0.3 0.3 ]"
+
+	$phong 1
+	 $phongfresnelranges "[0.25 0.5 1]"
+	$phongboost    "1"
+    	$phongexponenttexture "models/shtazi/shared/suit_p"
+
+    	$rimlight 1
+   	 $rimlightexponent       2
+    	$rimlightboost          .2
+    	$rimmask 0
+
+    	$envmap "env_cubemap"
+    	$envmaptint "[0.01 0.01 0.01 ]"
+    	$envmapfresnel 1
+    	$blendTintByBaseAlpha 1
+    	$normalmapalphaenvmapmask 1
+}

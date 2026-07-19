@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/shtazi/off_pretor/royalguardbody"
+	$bumpmap "models/shtazi/off_pretor/cha_emp_officer_n"
+
+	$color2 "[ 1 1 1]"
+
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 1
+
+	$nocull 1
+}

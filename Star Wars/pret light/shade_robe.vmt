@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/shtazi/off_pretor/rg_robe_shade"
+	$bumpmap "models/shtazi/off_pretor/rg_robe_n"
+
+	$color2 "[ 0.5 0.5 0.5 ]"
+
+
+	$rimlight 1
+	$rimlightexponent       2
+	$rimlightboost          .2
+	$rimmask 1
+
+	$nocull 1
+}
